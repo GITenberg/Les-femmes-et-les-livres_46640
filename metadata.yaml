@@ -1,0 +1,26 @@
+_repo: Les-femmes-et-les-livres_46640
+covers:
+- cover_type: archival
+  image_path: 46640/46640-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Cim, Albert
+    alias: Cimochowski, Albert Antoine
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '7504'
+    url: http://www.gutenberg.org/2009/agents/7504
+description: ''
+gutenberg_bookshelf: FR Femmes
+gutenberg_issued: '2014-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46640'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Les femmes et les livres
+url: http://www.gutenberg.org/ebooks/46640
